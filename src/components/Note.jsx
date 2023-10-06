@@ -16,5 +16,4 @@ function Note(props) {
     </div>
   );
 }
-
 export default Note;
