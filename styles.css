@@ -10,12 +10,13 @@
     
   }
   body {
-    background: #eee;
+    background-color: #e60068;
+    background-image: url("https://www.transparenttextures.com/patterns/black-scales.png");
     padding: 0 16px;
   }
   
   header {
-    background-color: #f5ba13;
+    background-color: red;
     margin: auto -16px;
     padding: 16px 32px;
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
